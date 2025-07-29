@@ -1,19 +1,18 @@
-# Global_Food_Production_Data_Analysis(Interactive Dashboard creating using Power BI)
-  ## Project Overview
+# 🌏Global_Food_Production_Data_Analysis(Interactive Dashboard creating using Power BI)
+  ## 📅  Project Overview
 
-This dynamic dashboard provides key insights into worldwide food production trends across major commodities. Users can interact with the dashboard to explore data from 1961 to 2023 using a year filter.
+This dynamic dashboard provides key insights into worldwide food production trends across major commodities. 
+Users can interact with the dashboard to explore data from 1961 to 2023 using a year filter.
 
 
-## Data Set Used
-
-## Key Metrics Overview
+## 🧮 Key Metrics Overview
    ### Commodity	Total Production	 Visualization Type
          Tea	   23 million tonnes	   Text panel
          Rice	   3.82 billion tonnes	 Text panel
          Wheat	 4 billion tonnes	     Gauge chart
          Maize	 Variable by year	      Line and pie charts
 
-  ## Trends & Comparisons
+  ## 📊  Trends & Comparisons
    ### 🔷 Cereal Production (2010–2022)
                •	Bar chart comparing yearly sums of maize, wheat, and rice.
                •	Clear upward trend in all three crops with regional variations.
@@ -45,14 +44,23 @@ ________________________________________
 
          
 ##   Key Outcomes :
-             •	Total Maize Production: 229 Billion tonnes
-             •	Total Rice Production: 268.56 Billion tonnes
-             •	Total Wheat Production: 282 Billion tonnes
+              •	Total Maize Production: 229 Billion tonnes
+              •	Total Rice Production: 268.56 Billion tonnes
+              •	Total Wheat Production: 282 Billion tonnes
               •	Production trends show continuous growth post 2000
               •	Top producing regions include South America, Saudi Arabia, and Western Africa
               •	Visuals allow year-wise and country-wise comparison of crops
 
 
+## Attached Files :
+
+ ### World_Food_Production_Dashboard.pbix — 
+                      
+ ### Dashboard_Report.docx — Summary & outcomes (as per provided template)
+        
+  ### world food production.csv.zip -
+        
+	
 
 
 
