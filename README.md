@@ -4,8 +4,16 @@
 This dynamic dashboard provides key insights into worldwide food production trends across major commodities. 
 Users can interact with the dashboard to explore data from 1961 to 2023 using a year filter.
 
-## DataSet Used
-         -   https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/world%20food%20production.csv.zip
+ ## 📥 Dataset Source
+
+Original dataset from Kaggle:  
+🔗 [World Food Production – Kaggle](https://www.kaggle.com/datasets/rafsunahmad/world-food-production)
+
+## 🛠 Tools Used
+
+- Power BI Desktop
+- DAX (for calculated fields)
+- CSV/Excel preprocessing 
 
 ## 🧮 Key Metrics Overview
    ### Commodity	Total Production	 Visualization Type
@@ -54,8 +62,8 @@ ________________________________________
               •	Visuals allow year-wise and country-wise comparison of crops
 
 
-## Dashboard_Result :
-  - Dashboard_report_images.png
+## Dashboard_Preview
+-https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/Dashboard_report_images.png
 
         
 	
