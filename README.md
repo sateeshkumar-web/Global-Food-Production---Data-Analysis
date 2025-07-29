@@ -1,4 +1,17 @@
 # 🌏Global_Food_Production_Data_Analysis(Interactive Dashboard creating using Power BI)
+
+  Team ID :   PNT2022TMIDxxxxxx
+
+  Date :    28 July 2025
+
+  Tool Used :  Power BI Desktop
+
+  File Type :  .pbix & .docx
+
+  Submitted By :  Sateesh Kumar
+
+
+
   ## 📅  Project Overview
 
 This dynamic dashboard provides key insights into worldwide food production trends across major commodities. 
@@ -64,6 +77,10 @@ ________________________________________
 
 ## Dashboard_Preview
 -https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/Dashboard_report_images.png
+
+## Conclusion
+
+The Global Food Production Analysis Dashboard provides a comprehensive overview of food production trends from 1961 to 2023. It highlights key metrics, regional breakdowns, and forecasted data, enabling stakeholders to make informed decisions. The dominance of wheat and rice in global food systems, along with the growth of tropical fruits, underscores the importance of adapting to changing consumer demands and agricultural innovations. Visualizations and insights from the dashboard empower users to analyze year-wise and country-wise comparisons, ensuring preparedness for future agricultural shifts.
 
         
 	
