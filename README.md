@@ -76,7 +76,7 @@ ________________________________________
 
 
 ## Dashboard_Preview
--https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/Dashboard_report_images.png
+- https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/global_food_production_dashboard_report.png
 
 ## Conclusion
 
