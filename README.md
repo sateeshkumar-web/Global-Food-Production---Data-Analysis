@@ -19,8 +19,6 @@ Users can interact with the dashboard to explore data from 1961 to 2023 using a 
 
  ## 📥 Dataset Source
 
-Original dataset from Kaggle:  
-🔗 [World Food Production – Kaggle](https://www.kaggle.com/datasets/rafsunahmad/world-food-production)
 
 ## 🛠 Tools Used
 
@@ -76,7 +74,7 @@ ________________________________________
 
 
 ## Dashboard_Preview
-- https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/global_food_production_dashboard_report.png
+-  <a href= "https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/global_food_production_dashboard_report.png">View Dashboard</a>
 
 ## Conclusion
 
