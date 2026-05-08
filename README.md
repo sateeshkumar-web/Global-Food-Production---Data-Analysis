@@ -1,86 +1,99 @@
-# 🌏Global_Food_Production_Data_Analysis(Interactive Dashboard creating using Power BI)
+#  Global Food Production Analysis Dashboard (1961–2023)
 
-  Team ID :   PNT2022TMIDxxxxxx
-
-  Date :    28 July 2025
-
-  Tool Used :  Power BI Desktop
-
-  File Type :  .pbix & .docx
-
-  Submitted By :  Sateesh Kumar
+An interactive Power BI dashboard analyzing worldwide food production trends from 1961 to 2023 using agricultural datasets and visual analytics.
 
 
+#  Project Overview
 
-  ## 📅  Project Overview
+This project focuses on analyzing global agricultural production data across multiple food categories such as:
 
-This dynamic dashboard provides key insights into worldwide food production trends across major commodities. 
-Users can interact with the dashboard to explore data from 1961 to 2023 using a year filter.
+-  Maize
+-  Wheat
+-  Rice
+-  Coffee
+-  Bananas
+-  Grapes
+-  Apples
+-  Oranges
+-  Tea
 
-## 🛠 Tools Used
+ #  Objectives
 
-- Power BI Desktop
-- DAX (for calculated fields)
-- CSV/Excel preprocessing 
+- Analyze global food production trends
+- Compare agricultural production across crops
+- Identify top-producing countries
+- Build an interactive Power BI dashboard
+- Visualize long-term agricultural growth
 
-## 🧮 Key Metrics Overview
-   ### Commodity	Total Production	 Visualization Type
-         Tea	   23 million tonnes	   Text panel
-         Rice	   3.82 billion tonnes	 Text panel
-         Wheat	 4 billion tonnes	     Gauge chart
-         Maize	 Variable by year	      Line and pie charts
+  #  Dataset Information
 
-  ## 📊  Trends & Comparisons
-   ### 🔷 Cereal Production (2010–2022)
-               •	Bar chart comparing yearly sums of maize, wheat, and rice.
-               •	Clear upward trend in all three crops with regional variations.
-   ### 📈 Maize Production Over Time (1960–2040)
-                •	Line chart forecasting maize yield increases.
-                •	Demonstrates significant growth post-2000, with projections up to 2040
+The dataset includes:
 
-   ### 🟪 Pie Chart: Maize Breakdown by Year
-                      •	Highlights how maize production is distributed over the years.
-________________________________________
-   ### 🌍 Regional Production Breakdown
-  #### ☕ Green Coffee by Entity
-              •	Bar chart showcasing country-wise production volumes.
-  ### 🍓  Fruit Production by Country
-              •	Detailed comparison of avocados, bananas, oranges.
-### 🍇 Mixed Fruit Totals
-  ## Fruit	Total Production (Tonnes)
-    Grapes	   43.16 billion
-    Apple	    38.84 billion
-    Bananas	    31.61 billion
-    Oranges	    25.93 billion
-________________________________________
-             
+- Year-wise agricultural production data
+- Country/Entity information
+- Crop production quantities (tonnes)
+- Multiple food production categories
 
-##  💡 Insights
-          •	The dashboard emphasizes the dominance of wheat and rice in global food systems.
-         •	Tropical fruits show robust growth, driven by consumer demand and farming   innovation.
-         •	Forecasted data helps stakeholders prepare for future agricultural shifts
-
-         
-##   Key Outcomes :
-              •	Total Maize Production: 229 Billion tonnes
-              •	Total Rice Production: 268.56 Billion tonnes
-              •	Total Wheat Production: 282 Billion tonnes
-              •	Production trends show continuous growth post 2000
-              •	Top producing regions include South America, Saudi Arabia, and Western Africa
-              •	Visuals allow year-wise and country-wise comparison of crops
-
-
-## Dashboard_Preview
+# Dashboard_Preview
 -  <a href= "https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/global_food_production_dashboard_report.png">View Dashboard</a>
 
-## Conclusion
+ # Key Insights
 
-The Global Food Production Analysis Dashboard provides a comprehensive overview of food production trends from 1961 to 2023. It highlights key metrics, regional breakdowns, and forecasted data, enabling stakeholders to make informed decisions. The dominance of wheat and rice in global food systems, along with the growth of tropical fruits, underscores the importance of adapting to changing consumer demands and agricultural innovations. Visualizations and insights from the dashboard empower users to analyze year-wise and country-wise comparisons, ensuring preparedness for future agricultural shifts.
+- Maize production has increased significantly over time.
+- Rice and wheat remain dominant global food crops.
+- Coffee production is concentrated in selected countries.
+- Fruit production contributes strongly to global agriculture.
 
-        
+  #  Business Insights
+
+- Global maize production has significantly increased over the decades.
+- Rice and wheat remain dominant contributors to global food supply.
+- Coffee production is concentrated among specific countries.
+- Fruit production categories show consistent global growth trends.  
 	
+#  Tech Stack
+
+- **Power BI** – Interactive Business Intelligence Dashboard  
+- **SQL** – Data Extraction & Query Processing  
+- **Microsoft Excel** – Data Preparation & Structuring  
+- **Power Query** – Data Cleaning & Transformation  
+- **DAX** – KPI Creation & Analytical Calculations   
+
+ 
+ #  Project Structure
+
+```bash
+Global-Food-Production-Analysis-Dashboard/
+│
+├── Dataset/
+│   └── food_production.csv
+│
+├── Dashboard/
+│   └── Global_Food_Production.pbix
+│
+├── Images/
+│   └── global_food_production_dashboard_report.png
+│
+├── README.md
+│
+└── requirements.txt
 
 
 
+ 
+#  Future Enhancements
+
+- Predictive Analytics Integration
+- Climate Impact Analysis
+- Real-Time Data Integration
+- Machine Learning Forecasting
+
+
+# 👨‍💻Author
+
+## Sateesh Kumar
+- GitHub: 
+- LinkedIn:    
+ 
 
 
