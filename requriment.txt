@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+powerbi
+ms-excel
+sql
+matplotlib
+seaborn
+jupyter
