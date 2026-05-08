@@ -31,7 +31,9 @@ This project focuses on analyzing global agricultural production data across mul
 Dataset/food_production.csv
 ```
 
-<a href= https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/world%20food%20production.csv.zip><dataset</a>
+ <a href="https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/world%20food%20production.csv.zip">
+    📥 Download Dataset
+</a>
 
 The dataset includes:
 
@@ -42,6 +44,8 @@ The dataset includes:
 
 # Dashboard_Preview
 -  <a href= "https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/global_food_production_dashboard_report.png">View Dashboard</a>
+<img width="1346" height="753" alt="image" src="https://github.com/user-attachments/assets/500ae686-929b-4fb6-9507-98003cea7ed8" />
+
 
  ## Key Insights
 
