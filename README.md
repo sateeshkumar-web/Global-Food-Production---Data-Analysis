@@ -107,7 +107,7 @@ Use filters, charts, and slicers to analyze food production trends interactively
 
 - Sateesh Kumar
 - GitHub: https://github.com/sateeshkumar-web
-- LinkedIn: linkedin.com/in/sateesh-kumar-dwivedi-92ba83350  
+- LinkedIn: www.linkedin.com/in/sateesh-kumar-dwivedi-92ba83350  
 - Gmail: sateeshk65666@gmail.com
 - Phone: 7379202536 (Work)
 
