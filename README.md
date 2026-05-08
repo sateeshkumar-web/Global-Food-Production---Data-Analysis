@@ -62,7 +62,6 @@ The dataset includes:
  
  ##  Project Structure
 
-```bash
 Global-Food-Production-Analysis-Dashboard/
 │
 ├── Dataset/
@@ -79,6 +78,21 @@ Global-Food-Production-Analysis-Dashboard/
 └── requirements.txt
 
 
+#  How to Use
+
+### Step 1: Clone Repository
+
+```bash
+git clone https://github.com/your-username/Global-Food-Production-Analysis-Dashboard.git
+```
+
+### Step 2: Open Power BI File
+
+Open the `.pbix` file using **Power BI Desktop**
+
+### Step 3: Explore Dashboard
+
+Use filters, charts, and slicers to analyze food production trends interactively.
 
  
 ##  Future Enhancements
