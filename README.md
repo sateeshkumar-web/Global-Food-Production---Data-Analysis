@@ -92,8 +92,8 @@ Global-Food-Production-Analysis-Dashboard/
 ## 👨‍💻Author &  Connect With Me
 
 - Sateesh Kumar
-- GitHub: 
-- LinkedIn:  linkedin.com/in/sateesh-kumar-dwivedi-92ba83350  
+- GitHub: https://github.com/sateeshkumar-web
+- LinkedIn: linkedin.com/in/sateesh-kumar-dwivedi-92ba83350  
 - Gmail: sateeshk65666@gmail.com
 - Phone: 7379202536 (Work)
 
