@@ -70,24 +70,6 @@ The dataset includes:
 - **DAX** – KPI Creation & Analytical Calculations   
 
  
- ##  Project Structure
-
-Global-Food-Production-Analysis-Dashboard/
-│
-├── Dataset/
-│   └── food_production.csv
-│
-├── Dashboard/
-│   └── Global_Food_Production.pbix
-│
-├── Images/
-│   └── global_food_production_dashboard_report.png
-│
-├── README.md
-│
-└── requirements.txt
-
-
 #  How to Use
 
 ### Step 1: Clone Repository
