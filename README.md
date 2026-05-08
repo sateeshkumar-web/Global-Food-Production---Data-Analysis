@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analyzing worldwide food production trends from 1961 to 2023 using agricultural datasets and visual analytics.
 
 
-#  Project Overview
+##  Project Overview
 
 This project focuses on analyzing global agricultural production data across multiple food categories such as:
 
@@ -17,7 +17,7 @@ This project focuses on analyzing global agricultural production data across mul
 -  Oranges
 -  Tea
 
- #  Objectives
+ ## Objectives
 
 - Analyze global food production trends
 - Compare agricultural production across crops
@@ -25,7 +25,7 @@ This project focuses on analyzing global agricultural production data across mul
 - Build an interactive Power BI dashboard
 - Visualize long-term agricultural growth
 
-  #  Dataset Information
+ ## Dataset Information
 
 The dataset includes:
 
@@ -37,21 +37,21 @@ The dataset includes:
 # Dashboard_Preview
 -  <a href= "https://github.com/sateeshkumar-web/Global-Food-Production---Data-Analysis/blob/main/global_food_production_dashboard_report.png">View Dashboard</a>
 
- # Key Insights
+ ## Key Insights
 
 - Maize production has increased significantly over time.
 - Rice and wheat remain dominant global food crops.
 - Coffee production is concentrated in selected countries.
 - Fruit production contributes strongly to global agriculture.
 
-  #  Business Insights
+  ##  Business Insights
 
 - Global maize production has significantly increased over the decades.
 - Rice and wheat remain dominant contributors to global food supply.
 - Coffee production is concentrated among specific countries.
 - Fruit production categories show consistent global growth trends.  
 	
-#  Tech Stack
+##  Tech Stack
 
 - **Power BI** – Interactive Business Intelligence Dashboard  
 - **SQL** – Data Extraction & Query Processing  
@@ -60,7 +60,7 @@ The dataset includes:
 - **DAX** – KPI Creation & Analytical Calculations   
 
  
- #  Project Structure
+ ##  Project Structure
 
 ```bash
 Global-Food-Production-Analysis-Dashboard/
@@ -81,7 +81,7 @@ Global-Food-Production-Analysis-Dashboard/
 
 
  
-#  Future Enhancements
+##  Future Enhancements
 
 - Predictive Analytics Integration
 - Climate Impact Analysis
@@ -89,11 +89,11 @@ Global-Food-Production-Analysis-Dashboard/
 - Machine Learning Forecasting
 
 
-# 👨‍💻Author
+## 👨‍💻Author
 
-## Sateesh Kumar
+- Sateesh Kumar
 - GitHub: 
-- LinkedIn:    
- 
+- LinkedIn:  linkedin.com/in/sateesh-kumar-dwivedi-92ba83350  
+- Gmail: sateeshk65666@gmail.com 
 
 
